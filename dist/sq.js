@@ -1,1 +1,1 @@
-document.getElementById("div").style.pointerEvents = "auto!important";
+document.getElementById("frame").style.pointerEvents = "auto!important";
